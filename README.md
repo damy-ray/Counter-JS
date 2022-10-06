@@ -1,21 +1,11 @@
 
-# Damiano Raineri'S Counter
-
-Si tratta di un counter in Javascript in cui sono presenti due bottoni (+ e -). Al click di uno dei due viene aggiornato il numero. 
-
-## Support
-
-For support, email fake@fake.com or join our Slack channel.
+# Damiano Raineri's Counter
 
 
-## Authors
+A simple Javascript counter (and my first project in this language). 
+It consists into two buttons, + and -, and when the user clicks one of them the dispalyed number will be refreshed. There's also the third "Start Over" button.
 
-- [@damy-ray](https://www.github.com/damy-ray)
 
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
 
 
 ## Languages
@@ -23,3 +13,13 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 * HTML
 * CSS
 * JavaScript
+## Try it!
+
+You can try the application [here](https://counter-js-damy-ray.netlify.app/). 
+
+## Author & Contacts
+
+- [@damy-ray](https://www.github.com/damy-ray)
+- damiano_raineri@hotmail.it
+
+
